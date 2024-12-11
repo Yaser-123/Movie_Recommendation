@@ -1,6 +1,6 @@
 # Movie Recommendation App
 
-![Banner Image Placeholder](#)
+![Banner Image](Images/img-1)
 
 ## Overview
 The **Movie Recommendation App** is a Streamlit-based application that suggests movies based on user preferences. The app uses data from the TMDB dataset and APIs like YouTube and OMDb to enhance the user experience with trailers, posters, and detailed movie information.
